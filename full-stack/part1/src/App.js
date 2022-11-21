@@ -15,7 +15,7 @@ const App = () => {
       <Display counter={counter}/>
       <Button
         onClick={increaseByOne}
-        text='plus'
+        text='plus1'
       />
       <Button
         onClick={setToZero}
